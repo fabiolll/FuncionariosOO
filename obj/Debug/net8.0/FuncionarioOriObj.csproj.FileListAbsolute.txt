@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\bin\Debug\net8.0\FuncionarioOriObj.exe
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\bin\Debug\net8.0\FuncionarioOriObj.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\bin\Debug\net8.0\FuncionarioOriObj.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\bin\Debug\net8.0\FuncionarioOriObj.dll
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\bin\Debug\net8.0\FuncionarioOriObj.pdb
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.dll
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\refint\FuncionarioOriObj.dll
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.pdb
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\FuncionarioOriObj.genruntimeconfig.cache
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioOriObj\obj\Debug\net8.0\ref\FuncionarioOriObj.dll
